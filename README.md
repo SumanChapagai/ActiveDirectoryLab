@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Creating an Active Directory home lab environment using Virtual Lab and adding users with PowerShell.
+Created an Active Directory Home Lab Environment using VirtualBox and added users with PowerShell.
 <br />
 
 
