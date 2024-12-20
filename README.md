@@ -19,7 +19,7 @@ Created an Active Directory Home Lab Environment using VirtualBox and added user
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Installing Windows Server- <br/>
+Installing Windows Server - <br/>
 <p>Used Windows Server version 2022 as the Domain Controller for this Project.</p>
 <img src="https://i.imgur.com/j30Txdk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
